@@ -68,3 +68,5 @@ I have tried to include only the packages thought absolutely necessary, so here 
 ## License
  
 This boilerplate, much like the Laravel framework is open-source software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+Tested by GitHub Actions
